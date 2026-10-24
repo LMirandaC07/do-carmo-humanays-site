@@ -1,7 +1,52 @@
-# Do Carmo HumanYs Massoterapia
+# Do Carmo HumanYs · Massoterapia
 
-Site institucional estático feito em HTML, CSS e JavaScript, com layout responsivo para celular e desktop.
+Site institucional da **Do Carmo HumanYs Massoterapia**, criado para apresentar o espaço, explicar a proposta de atendimento e facilitar o contato para agendamentos.
+
+![Identidade visual Do Carmo HumanYs](images/logo-emblema.webp)
+
+## Sobre o projeto
+
+Uma página leve e responsiva, em português, com foco em bem-estar, acolhimento e acesso rápido às informações da empresa.
+
+### Recursos
+
+- Layout adaptado para celular, tablet e desktop
+- Navegação por seções com menu móvel
+- Atalhos de contato para WhatsApp, telefone, e-mail e Instagram
+- Link para localização no Google Maps
+- Imagens otimizadas em WebP
+- Respeito à preferência do dispositivo por movimento reduzido
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- Google Fonts: DM Sans e Lora
+
+## Estrutura
+
+```text
+.
+├── index.html
+├── README.md
+└── images/
+    ├── logo-emblema.webp
+    ├── sala-massoterapia.webp
+    └── sessao-massoterapia.webp
+```
 
 ## Visualizar localmente
 
-Abra `index.html` em um navegador. As imagens usadas no site estão em `images/`.
+Não é necessário instalar dependências. Abra `index.html` em um navegador. Para testar navegação, imagens e links, mantenha a pasta `images/` junto do arquivo.
+
+## Publicar com GitHub Pages
+
+1. Abra **Settings → Pages** no repositório.
+2. Em **Build and deployment**, selecione **Deploy from a branch**.
+3. Escolha a branch `main` e a pasta `/ (root)`, então salve.
+4. Aguarde o GitHub Pages concluir a publicação; o endereço aparecerá na própria tela de Pages.
+
+## Contato
+
+Os canais de atendimento estão disponíveis no site.
