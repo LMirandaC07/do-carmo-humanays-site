@@ -36,16 +36,6 @@ Uma página leve e responsiva, em português, com foco em bem-estar, acolhimento
     └── sessao-massoterapia.webp
 ```
 
-## Visualizar localmente
-
-Não é necessário instalar dependências. Abra `index.html` em um navegador. Para testar navegação, imagens e links, mantenha a pasta `images/` junto do arquivo.
-
-## Publicar com GitHub Pages
-
-1. Abra **Settings → Pages** no repositório.
-2. Em **Build and deployment**, selecione **Deploy from a branch**.
-3. Escolha a branch `main` e a pasta `/ (root)`, então salve.
-4. Aguarde o GitHub Pages concluir a publicação; o endereço aparecerá na própria tela de Pages.
 
 ## Contato
 
