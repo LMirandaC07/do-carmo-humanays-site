@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://do-carmo-humanays-site.vercel.app/sitemap.xml
+Sitemap: https://docarmohumanys.vercel.app/sitemap.xml
