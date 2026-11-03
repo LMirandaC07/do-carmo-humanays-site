@@ -29,6 +29,7 @@ Uma página leve e responsiva, em português, com foco em bem-estar, acolhimento
 ```text
 .
 ├── index.html
+├── styles.css
 ├── README.md
 └── images/
     ├── logo-emblema.webp
